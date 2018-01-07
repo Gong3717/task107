@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "test": "jasmine-node --verbose specs"
+  },
+  "dependencies": {
+    "jasmine-node": "1.14.5"
+  },
+  "name": "collection-calculate-camp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgnesFeng/task107.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgnesFeng/task107/issues"
+  },
+  "homepage": "https://github.com/AgnesFeng/task107#readme",
+  "description": ""
+}
